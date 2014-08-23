@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name		: shooter subtitle downloader
-# Purpose	: download chinese subtitle by shooter website
-# Created	: kevin
+# Purpose	: download chinese subtitle from shooter website
+# Created	: Kevin
 # Copyright	: (c) xiangshuai.github.com
 #-------------------------------------------------------------------------------
 import os
