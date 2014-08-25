@@ -15,7 +15,7 @@ The script also can run on Mac and Linux platforms. More details can be found he
 
 Enjoy your shows!
 
-###Info:
+###Infos:
 The scirpt inspired by [subtitle-downloader](https://github.com/manojmj92/subtitle-downloader) writed by [manojmj92](https://github.com/manojmj92). Unfortunately, [subtitle-downloader](https://github.com/manojmj92/subtitle-downloader) only can download english subtitles, so I write this scirpt. More details can be found here: [shooter subtitle downloader analysis](http://xiangshuai.github.io/2014/08/shooter-subtitle-downloader/).
 
 Thanks [manojmj92](https://github.com/manojmj92)!
