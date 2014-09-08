@@ -5,9 +5,8 @@
 
 ##用法:
 ###Windows:
-- 将shooter-subtitle-downloader.py文件置于C盘根目录下（C:\）
-- 将Shooter.cmd置于windows的发送目录(C:\Users\\`username`\AppData\Roaming\Microsoft\Windows\SendTo\)
-- 鼠标右击需要下载字幕的电影，点击发送到->Shooter.cmd
+- 将Shooter.py置于windows的发送目录(C:\Users\\`username`\AppData\Roaming\Microsoft\Windows\SendTo\)
+- 鼠标右击需要下载字幕的电影，点击发送到->Shooter.py
 
 ###Other Platforms:
 

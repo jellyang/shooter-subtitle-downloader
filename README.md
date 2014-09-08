@@ -5,9 +5,8 @@ Get the latest version of Python at [http://www.python.org/getit/](https://www.p
 
 ##Usage:
 ###Windows:
-- Place shooter-subtitle-downloader.py file in C:\
-- Place Shooter.cmd in sendto folder in windows(C:\Users\\`username`\AppData\Roaming\Microsoft\Windows\SendTo\)
-- Right click the movie file and click sendto -> Shooter.cmd
+- Place `shooter.py` in sendto folder in windows(C:\Users\\`username`\AppData\Roaming\Microsoft\Windows\SendTo\)
+- Right click the movie file and click sendto -> Shooter.py
 
 ###Other Platforms:
 
